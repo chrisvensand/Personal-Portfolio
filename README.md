@@ -1,2 +1,2 @@
 # chrisvensand.github.io
-Personal Blog
+Blog
