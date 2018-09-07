@@ -5,7 +5,7 @@ html {
 }
 
 body {
-  background-color: #F4F9FD;
+  background-color: rgb(0, 0, 0);
   overflow: hidden;
   margin: 0;
   height: 100%;
@@ -67,15 +67,15 @@ body {
 }
 
 .custom-theme .conversational-form {
-  background-color: #F4F9FD;
+  background-color: rgb(0, 0, 0);
 }
 
 .custom-theme .conversational-form cf-chat-response.robot text > p {
-  background-color: white;
+  background-color: rgb(0, 0, 0);
 }
 
 .custom-theme .conversational-form cf-button:hover {
-  background-color: #e3f1ff;
+  background-color: #000000;
 }
 
 .custom-theme .conversational-form textarea {
