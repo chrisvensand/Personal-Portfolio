@@ -9,20 +9,20 @@
 				{
 					"tag": "option",
 					"name": "project-opts",
-					"cf-label": "GradePoint",
-					"value": "opt-gradepoint"
+					"cf-label": "NASA Image Viewer",
+					"value": "opt-imageviewer"
 				},
 				{
 					"tag": "option",
 					"name": "project-opts",
-					"cf-label": "UICircularProgressRing",
-					"value": "opt-ucpr"
+					"cf-label": "Little Computer 2000",
+					"value": "opt-LC2K"
 				},
 				{
 					"tag": "option",
 					"name": "project-opts",
-					"cf-label": "EyeBot",
-					"value": "opt-eyebot"
+					"cf-label": "Question Classifier",
+					"value": "opt-classifier"
 				},
 				{
 					"tag": "option",
