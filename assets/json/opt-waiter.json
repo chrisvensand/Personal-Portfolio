@@ -1,0 +1,30 @@
+{
+    "tags": [
+        {
+            "tag": "select",
+            "cf-input-placeholder": "Pick one",
+			"size": "3",
+			"cf-questions": "I have been working in the restaurant industry my entire life!&&I enjoy working hard and learning new skills.&&Currently I work as a Waiter at a restaurant called Cafe Zola.",
+			"children":[
+				{
+					"tag": "option",
+					"name": "waiter-opts",
+					"cf-label": "Tell me about your research work",
+					"value": "opt-uofm"
+                },
+                {
+					"tag": "option",
+					"name": "waiter-opts",
+					"cf-label": "Go back",
+					"value": "opt-experience"
+                },
+				{
+					"tag": "option",
+					"name": "waiter-opts",
+					"cf-label": "Goodbye!",
+					"value": "opt-end"
+                }
+			]
+        }
+    ]
+}

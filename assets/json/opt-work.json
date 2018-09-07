@@ -10,7 +10,7 @@
                         "tag": "option",
                         "name": "work-opts",
                         "cf-label": "Waiter / Tablestaff",
-                        "value": "opt-tripadvisor"
+                        "value": "opt-waiter"
                     },
                     {
                         "tag": "option",

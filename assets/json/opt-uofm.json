@@ -3,20 +3,14 @@
         {
             "tag": "select",
             "cf-input-placeholder": "Pick one",
-			"size": "4",
+			"size": "3",
 			"cf-questions": "While in school I worked as a research assistant for the <a target='_blank' href='https://sites.lsa.umich.edu/cundiff-lab/'>Cundiff Lab</a> at the University of Michigan.&&I researched ways to use Raspberry Pi's and Ardiunos with circuit boards.&&I also helped build a stepper motor inside the labs spectrometer.",
 			"children":[
 				{
 					"tag": "option",
 					"name": "uofm-opts",
-					"cf-label": "Tell me about TripAdvisor",
-					"value": "opt-tripadvisor"
-                },
-                {
-					"tag": "option",
-					"name": "uofm-opts",
-					"cf-label": "Let's talk about Siemens",
-					"value": "opt-siemens"
+					"cf-label": "Tell me about being a Waiter / Tablestaff",
+					"value": "opt-waiter"
                 },
                 {
 					"tag": "option",
