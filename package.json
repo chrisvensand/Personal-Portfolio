@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "description": "Conversation portfolio web app",
   "main": "app.js",
-  "repository": "git@github.com:luispadron/ConversationalPortfolio.git",
+  "repository": "git@github.com:chrisvensand/chrisvensand.github.io",
   "author": "Chris Vensand <chrisvensand@gmail.com>",
   "license": "MIT",
   "private": false,
