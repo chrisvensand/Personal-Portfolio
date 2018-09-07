@@ -1,0 +1,30 @@
+{
+    "tags": [
+        {
+			"tag": "select",
+			"cf-input-placeholder": "Pick one",
+			"size": "3",
+			"cf-questions": "Question Classifier is a machine learing application.&&It was developed to classify question posts by label and content.&&It's not available on GitHub, so email me <a href='mailto:chrisvensand@gmail.com'>here</a> if you would like to see source code",
+			"children":[
+				{
+					"tag": "option",
+					"name": "classifier-opts",
+					"cf-label": "Tell me about NASA Image Viewer",
+					"value": "opt-imageviewer"
+                },
+                {
+					"tag": "option",
+					"name": "classifier-opts",
+					"cf-label": "Let's talk about the Little Computer 2000",
+					"value": "opt-LC2K"
+				},
+				{
+					"tag": "option",
+					"name": "classifier-opts",
+					"cf-label": "Tell me about your experience",
+					"value": "opt-experience"
+				}
+			]
+		}
+    ]
+}
