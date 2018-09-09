@@ -70,6 +70,3 @@ function loadJSON(name, callback) {
     xhr.open("GET", "assets/json/" + name + ".json")
     xhr.send(null)
 }
-
-
-
