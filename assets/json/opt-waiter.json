@@ -4,7 +4,7 @@
             "tag": "select",
             "cf-input-placeholder": "Pick one",
 			"size": "3",
-			"cf-questions": "I have been working in the restaurant industry my entire life!&&I enjoy working hard and learning new skills.&&Currently I work as a Waiter at a restaurant called Cafe Zola.",
+			"cf-questions": "I have been working in the restaurant industry my entire life!&&Currently I work as a Waiter at Cafe Zola, an eclectic restaurant serving french and mediterranean inspired dishes.",
 			"children":[
 				{
 					"tag": "option",
