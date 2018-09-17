@@ -4,7 +4,7 @@
 			"tag": "select",
 			"cf-input-placeholder": "Pick one",
 			"size": "3",
-			"cf-questions": "Recently I developed an emulator to play Metroid 1986.&&The level layout design and game mechanics stay true to the original game.&&I programed all components and features in C# using the Unity game engine and collaboration tool.&&If you would like to see any source code contact me by email <a href='mailto:chrisvensand@gmail.com'>here</a>",
+			"cf-questions": "Recently I developed an emulator to play Metroid 1986.&&The level design and game mechanics stay true to the original game.&&I programed all components and features in C# using the Unity game engine and collaboration tool.&&If you would like to see any source code contact me by email <a href='mailto:chrisvensand@gmail.com'>here</a>",
 			"children":[
 				{
 					"tag": "option",
