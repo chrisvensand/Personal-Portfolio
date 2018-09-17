@@ -15,8 +15,8 @@
                 {
 					"tag": "option",
 					"name": "classifier-opts",
-					"cf-label": "Let's talk about the Little Computer 2000",
-					"value": "opt-LC2K"
+					"cf-label": "Let's talk about Metroid",
+					"value": "opt-metroid"
 				},
 				{
 					"tag": "option",
