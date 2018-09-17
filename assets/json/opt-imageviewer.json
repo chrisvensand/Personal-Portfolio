@@ -9,8 +9,8 @@
 				{
 					"tag": "option",
 					"name": "imageviewer-opts",
-					"cf-label": "Tell me about the Little Computer 2000",
-					"value": "opt-LC2K"
+					"cf-label": "Tell me about Metroid",
+					"value": "opt-metroid"
 				},
 				{
 					"tag": "option",
