@@ -4,23 +4,23 @@
 			"tag": "select",
 			"cf-input-placeholder": "Pick one",
 			"size": "3",
-			"cf-questions": "The Little Computer 2000 is a fully functioning computer simulation written in C.&&It simulates the assembly and caching steps of a real computer.&&If you would like to see source code contact me by email <a href='mailto:chrisvensand@gmail.com'>here</a>",
+			"cf-questions": "Recently I developed an emulator to play Metroid 1986.&&The level layout design and game mechanics stay true to the original game.&&I programed all components and features in C# using the Unity game engine and collaboration tool.&&If you would like to see any source code contact me by email <a href='mailto:chrisvensand@gmail.com'>here</a>",
 			"children":[
 				{
 					"tag": "option",
-					"name": "LC2K-opts",
+					"name": "metroid-opts",
 					"cf-label": "Tell me about NASA Image Viewer",
 					"value": "opt-imageviewer"
 				},
 				{
 					"tag": "option",
-					"name": "LC2K-opts",
+					"name": "metroid-opts",
 					"cf-label": "What about your Question Classifier",
 					"value": "opt-classifier"
 				},
 				{
 					"tag": "option",
-					"name": "LC2K-opts",
+					"name": "metroid-opts",
 					"cf-label": "Let's talk about your experience",
 					"value": "opt-experience"
 				}
