@@ -3,9 +3,15 @@
         {
 			"tag": "select",
 			"cf-input-placeholder": "Pick one",
-			"size": "4",
+			"size": "5",
 			"cf-questions": "Which of my projects would you like to learn more about?",
 			"children":[
+				{
+					"tag": "option",
+					"name": "project-opts",
+					"cf-label": "Insta485",
+					"value": "opt-insta485"
+				},
 				{
 					"tag": "option",
 					"name": "project-opts",

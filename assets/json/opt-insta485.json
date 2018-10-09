@@ -1,0 +1,36 @@
+{
+  "tags": [
+      {
+    "tag": "select",
+    "cf-input-placeholder": "Pick one",
+    "size": "4",
+    "cf-questions": "Recently I wrote a dynamic website containing client and server-side scripting to generate instagram-like content.&&The web server was deployed through AWS and all UI components were constructed using ReactJS.&&Additionally, I Implemented API functionality to easily access user information and image comments.&&The entire project was engineered using test driven development and maintainable coding practices.&&If you would like to see any source code contact me by email <a href='mailto:chrisvensand@gmail.com'>here</a>.",
+    "children":[
+      {
+        "tag": "option",
+        "name": "insta485-opts",
+        "cf-label": "Tell me about NASA Image Viewer",
+        "value": "opt-imageviewer"
+      },
+      {
+        "tag": "option",
+        "name": "insta485-opts",
+        "cf-label": "Tell me about Metroid",
+        "value": "opt-metroid"
+      },
+      {
+        "tag": "option",
+        "name": "insta485-opts",
+        "cf-label": "What about your Question Classifier",
+        "value": "opt-classifier"
+      },
+      {
+        "tag": "option",
+        "name": "insta485-opts",
+        "cf-label": "Let's talk about your experience",
+        "value": "opt-experience"
+      }
+    ]
+  }
+  ]
+}

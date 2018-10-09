@@ -3,16 +3,22 @@
         {
 			"tag": "select",
 			"cf-input-placeholder": "Pick one",
-			"size": "3",
-			"cf-questions": "Question Classifier is a machine learing application.&&It was developed to classify question posts by label and content.&&It's not available on GitHub, so email me <a href='mailto:chrisvensand@gmail.com'>here</a> if you would like to see source code",
+			"size": "4",
+			"cf-questions": "Question Classifier is a machine learing application.&&It was developed to classify question posts by label and content.&&It's not available on GitHub, so email me <a href='mailto:chrisvensand@gmail.com'>here</a> if you would like to see source code.",
 			"children":[
+				{
+					"tag": "option",
+					"name": "classifier-opts",
+					"cf-label": "Talk about Insta485",
+					"value": "opt-insta485"
+				},
 				{
 					"tag": "option",
 					"name": "classifier-opts",
 					"cf-label": "Tell me about NASA Image Viewer",
 					"value": "opt-imageviewer"
-                },
-                {
+        },
+        {
 					"tag": "option",
 					"name": "classifier-opts",
 					"cf-label": "Let's talk about Metroid",
