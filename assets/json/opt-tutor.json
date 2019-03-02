@@ -1,1 +1,30 @@
-
+{
+    "tags": [
+        {
+            "tag": "select",
+            "cf-input-placeholder": "Pick one",
+			"size": "3",
+			"cf-questions": "While I was at Santa Barbara City College, I worked as a general purpose mathematics tutor.&&During this time I organized refresher courses, collaberated with co-workers, and communicated with professors to identify challenging material.",
+			"children":[
+				{
+					"tag": "option",
+					"name": "tutor-opts",
+					"cf-label": "Tell me about your research work",
+					"value": "opt-uofm"
+                },
+                {
+					"tag": "option",
+					"name": "tutor-opts",
+					"cf-label": "Go back",
+					"value": "opt-experience"
+                },
+				{
+					"tag": "option",
+					"name": "tutor-opts",
+					"cf-label": "Goodbye!",
+					"value": "opt-end"
+                }
+			]
+        }
+    ]
+}
