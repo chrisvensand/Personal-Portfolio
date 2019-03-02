@@ -3,7 +3,7 @@
         {
             "tag": "select",
             "cf-input-placeholder": "Pick one",
-			"size": "3",
+			"size": "4",
 			"cf-questions": "While in school I worked as a research assistant for the <a target='_blank' href='https://sites.lsa.umich.edu/cundiff-lab/'>Cundiff Lab</a> at the University of Michigan.&&I researched ways to use Raspberry Pi and Ardiuno micro-controllers to manage various lab equipment.&&I also helped build and program a stepper motor using Python scripts.",
 			"children":[
 				{
