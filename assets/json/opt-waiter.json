@@ -11,8 +11,14 @@
 					"name": "waiter-opts",
 					"cf-label": "Tell me about your research work",
 					"value": "opt-uofm"
+                },				
+				{
+					"tag": "option",
+					"name": "waiter-opts",
+					"cf-label": "What about Tutoring?",
+					"value": "opt-tutor"
                 },
-                {
+                		{
 					"tag": "option",
 					"name": "waiter-opts",
 					"cf-label": "Go back",
