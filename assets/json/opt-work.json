@@ -3,7 +3,7 @@
             {
                 "tag": "select",
                 "cf-input-placeholder": "What job do you want to ask about?",
-                "size": "2",
+                "size": "3",
                 "cf-questions": "Which of my jobs would you like to know more about?",
                 "children":[
                     {
@@ -20,7 +20,7 @@
                     },
                     {
                         "tag": "option",
-                        "name": "tutor-opts",
+                        "name": "work-opts",
                         "cf-label": "Mathematics Tutor",
                         "value": "opt-tutor"
                     }
