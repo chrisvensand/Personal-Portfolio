@@ -15,7 +15,7 @@
 				{
 					"tag": "option",
 					"name": "waiter-opts",
-					"cf-label": "What about Tutoring?",
+					"cf-label": "What about Tutoring",
 					"value": "opt-tutor"
                 },
                 		{
