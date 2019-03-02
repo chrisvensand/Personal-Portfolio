@@ -15,7 +15,7 @@
 				{
 					"tag": "option",
 					"name": "uofm-opts",
-					"cf-label": "What about Tutoring?",
+					"cf-label": "What about Tutoring",
 					"value": "opt-tutor"
                 },
                 {
