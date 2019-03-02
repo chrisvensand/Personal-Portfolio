@@ -17,6 +17,12 @@
                         "name": "work-opts",
                         "cf-label": "Research",
                         "value": "opt-uofm"
+                    },
+                    {
+                        "tag": "option",
+                        "name": "tutor-opts",
+                        "cf-label": "Mathematics Tutor",
+                        "value": "opt-tutor"
                     }
                 ]
             }
