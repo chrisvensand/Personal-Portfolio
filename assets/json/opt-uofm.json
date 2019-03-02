@@ -12,6 +12,12 @@
 					"cf-label": "Tell me about being a Waiter / Tablestaff",
 					"value": "opt-waiter"
                 },
+				{
+					"tag": "option",
+					"name": "uofm-opts",
+					"cf-label": "What about Tutoring?",
+					"value": "opt-tutor"
+                },
                 {
 					"tag": "option",
 					"name": "uofm-opts",
