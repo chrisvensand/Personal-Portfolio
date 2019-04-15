@@ -18,7 +18,7 @@
 			"tag": "select",
 			"cf-input-placeholder": "Ask away",
 			"size": "4",
-			"cf-questions": "Nice to meet you, {previous-answer}!&&I'm currently trapped in this website!&&Feel free to ask me something...",
+			"cf-questions": "Nice to meet you, {previous-answer}!&&I'm currently trapped in this website.&&Feel free to ask me something...",
 			"children":[
 				{
 					"tag": "option",

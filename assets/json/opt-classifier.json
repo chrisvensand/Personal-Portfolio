@@ -17,8 +17,8 @@
 					"name": "classifier-opts",
 					"cf-label": "Tell me about NASA Image Viewer",
 					"value": "opt-imageviewer"
-        },
-        {
+				},
+				{
 					"tag": "option",
 					"name": "classifier-opts",
 					"cf-label": "Let's talk about Metroid",

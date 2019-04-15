@@ -4,7 +4,7 @@
 			"tag": "select",
 			"cf-input-placeholder": "Pick one",
 			"size": "4",
-			"cf-questions": "Nasa Image Viewer is an iOS application designed to make viewing NASA images more accessable!&&It helps people access the beautiful images that NASA produces.&&Written in Swift and with the latest iOS features, I also used no libraries in order to learn as much as possible about iOS development.&&You can check NASA Image Viewer out <a href='https://github.com/chrisvensand/NASA_Image_Application' target='_blank'>here</a>.",
+			"cf-questions": "Nasa Image Viewer is an iOS application designed to make viewing NASA images more accessable!&&It helps people access the beautiful images that NASA produces.&&Written in Swift and with the latest iOS features, the app used no additional libraries in order to learn as much as possible about iOS development.&&You can check NASA Image Viewer out <a href='https://github.com/chrisvensand/NASA_Image_Application' target='_blank'>here</a>.",
 			"children":[
 				{
 					"tag": "option",
