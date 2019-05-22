@@ -4,7 +4,7 @@
             "tag": "select",
             "cf-input-placeholder": "Pick one",
 			"size": "2",
-			"cf-questions": "I've taken a few interesting courses including:&&Programming and Data Structures&&Computer Architecture&&Web Systems&&Game Design",
+			"cf-questions": "I've taken a few interesting courses including&&Programming and Data Structures&&Web Systems&&Compilers&&Machine Learning&&Computer Architecture&&Computational Physics",
 			"children":[
 				{
 					"tag": "option",

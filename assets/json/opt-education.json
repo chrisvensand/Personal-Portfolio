@@ -4,7 +4,7 @@
 			"tag": "select",
             "cf-input-placeholder": "Ask for more details...",
 			"size": "3",
-			"cf-questions": "I'm currently studying Computer Science at the University of Michigan in Ann Arbor.&&<img src='assets/img/uofm.png'></img>",
+			"cf-questions": "My Bachelor's Degree is in Computer Science and Physics from the University of Michigan Ann Arbor&&<img src='assets/img/uofm.png'></img>",
 			"children":[
 				{
 					"tag": "option",

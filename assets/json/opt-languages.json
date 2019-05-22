@@ -4,7 +4,7 @@
                 "tag": "select",
                 "cf-input-placeholder": "Ask away",
                 "size": "2",
-                "cf-questions": "Most of my experience is in C and C++.&&I also really enjoying programming in Python and am interested in learning more about machine learning and distributed systems.&&I've also got experience in Swift and JavaScript.",
+                "cf-questions": "Most of my experience is in C and C++&&I also really enjoying programming in Python and am interested in learning more about web development and distributed systems&&I also have experience in Swift and JavaScript",
                 "children":[
                     {
                         "tag": "option",

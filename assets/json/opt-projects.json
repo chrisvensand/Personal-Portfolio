@@ -27,8 +27,8 @@
 				{
 					"tag": "option",
 					"name": "project-opts",
-					"cf-label": "Question Classifier",
-					"value": "opt-classifier"
+					"cf-label": "MonoSynth",
+					"value": "opt-monosynth"
 				},
 				{
 					"tag": "option",
