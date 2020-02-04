@@ -9,8 +9,8 @@
                     {
                         "tag": "option",
                         "name": "work-opts",
-                        "cf-label": "Waiter / Tablestaff",
-                        "value": "opt-waiter"
+                        "cf-label": "Associate Backend Software Engineer",
+                        "value": "opt-engineer"
                     },
                     {
                         "tag": "option",
