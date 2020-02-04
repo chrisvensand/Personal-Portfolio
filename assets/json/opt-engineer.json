@@ -4,7 +4,7 @@
             "tag": "select",
             "cf-input-placeholder": "Pick one",
 			"size": "4",
-			"cf-questions": "LogicMonitor Inc. is a leading SaaS-based IT Infrastructure Monitoring Platform for Enterprise IT.&&It monitors on-premisess, cloud and hybrid datacenters from a single platform.&&I currently work as an Associate Backend Software Engineer on the Cloud Monitoring team.&&I can focused on adding new monitoring capabilities for cloud services from AWS, Azure and GCP.&&You can view LogicMonitors website <a href='https://www.logicmonitor.com' target='_blank'>here</a>.",
+			"cf-questions": "LogicMonitor Inc. is a leading SaaS-based IT Infrastructure Monitoring Platform for Enterprise IT.&&The product monitors on-premise, cloud and hybrid datacenters from a single platform.&&I currently work as an Associate Backend Software Engineer on the Cloud Monitoring team.&&My main focus is to add new monitoring capabilities for AWS, Azure and GCP cloud services.&&You can view LogicMonitors website <a href='https://www.logicmonitor.com' target='_blank'>here</a>.",
 			"children":[
 				{
 					"tag": "option",
