@@ -15,8 +15,8 @@
 				{
 					"tag": "option",
 					"name": "tutor-opts",
-					"cf-label": "Tell me about being a Server",
-					"value": "opt-waiter"
+					"cf-label": "Tell me about being a Software Enginee",
+					"value": "opt-engineer"
                 },
                 		{
 					"tag": "option",
